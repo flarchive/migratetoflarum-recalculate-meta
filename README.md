@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of migratetoflarum/recalculate-meta.** Not for installation: use [Packagist](https://packagist.org/packages/migratetoflarum/recalculate-meta) or the [upstream repository](https://github.com/migratetoflarum/recalculate-meta).
 
-**0** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/migratetoflarum-recalculate-meta/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^0.1.0-beta.13`
+**2** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/migratetoflarum-recalculate-meta/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^0.1.0-beta.13`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2020-10-26 | `>=0.1.0-beta.13 <0.1.0-beta.15` | [Browse](https://github.com/flarchive/migratetoflarum-recalculate-meta/tree/archive/v0.1.0) |
+| `0.1.1` | 2021-04-16 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/migratetoflarum-recalculate-meta/tree/archive/v0.1.1) |
 
 Catalog entry: [packages/migratetoflarum-recalculate-meta.json](https://github.com/flarchive/archive-index/blob/main/packages/migratetoflarum-recalculate-meta.json)
 
